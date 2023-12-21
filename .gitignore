@@ -1,0 +1,9 @@
+
+pipelines/model/bart-large-cnn/config.json
+pipelines/model/bart-large-cnn/merges.txt
+pipelines/model/bart-large-cnn/pytorch_model.bin
+pipelines/model/bart-large-cnn/special_tokens_map.json
+pipelines/model/bart-large-cnn/tokenizer.json
+pipelines/model/bart-large-cnn/tokenizer_config.json
+pipelines/model/bart-large-cnn/vocab.json
+pipelines/model/bart-large-cnn/generation_config.json
